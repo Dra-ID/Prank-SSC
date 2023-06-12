@@ -23,6 +23,7 @@ git clone https://github.com/Dra-ID/Prank-SSC
 cd Prank-SSC
 pip install inquirer
 pip3 install -r requirements.txt
+ls
 git pull
 python run.py
 
