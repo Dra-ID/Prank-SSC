@@ -31,7 +31,7 @@ python run.py
 selesai >_
 ```
      
-# Subs
+# Subs bro
 <p align="center">
   
   <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=SUBSCRIBE+CHANNEL+Vindra+ID" alt="UwU">
