@@ -1,5 +1,5 @@
 # Prank-SSC
-Prank spam sms call 😝
+Prank spam sms call 
 
 # info
 
